@@ -21,7 +21,6 @@ Hi, I'm Antonio, a Software Architect and Lead Engineer with years of experience
 
 ## 📢 Let’s Connect  
 - **LinkedIn:** [Antonio Perez Dieppa](https://www.linkedin.com/in/aperezdieppa/)  
-- **GitHub:** [dieppa](https://github.com/dieppa)  
 
 ---
 
