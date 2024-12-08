@@ -10,28 +10,24 @@ Hi, I'm Antonio, a Software Architect and Lead Engineer with years of experience
 ---
 
 ## 💻 Key Skills & Technologies  
-**Languages, frameworks and tools**: Java, Kotlin, Spring Boot, GraphQL, Micronaut, Flyway, Liquibase, Mongock, JPA, Netty, Vert.x, Auth0.
-
-**DevOps**: AWS, Kubernetes, Docker, CI/CD, GitHub Actions.
-
-**Database Technologies**: MongoDB, MySQL, PostgreSQL, DynamoDB, Mysql.
-
-**Architectural**: Microservices, Event-Driven Architecture (Kafka), RESTful APIs, CQRS, Multithreading, throughput, low-latency.
-
-**Testing**: TDD, BDD, Contract Test(PACT), Jmeter, Load/Stress testing, Mock-based prototyping test(Wiremock), JUnit, Mockito, Kotest, Testcontainers.
+- **Languages, frameworks and tools**: Java, Kotlin, Spring Boot, GraphQL, Micronaut, Flyway, Liquibase, Mongock, JPA, Netty, Vert.x, Auth0.
+- **DevOps**: AWS, Kubernetes, Docker, CI/CD, GitHub Actions.
+- **Database Technologies**: MongoDB, MySQL, PostgreSQL, DynamoDB, Mysql.
+- **Architectural**: Microservices, Event-Driven Architecture (Kafka), RESTful APIs, CQRS, Multithreading, throughput, low-latency.
+- **Testing**: TDD, BDD, Contract Test(PACT), Jmeter, Load/Stress testing, Mock-based prototyping test(Wiremock), JUnit, Mockito, Kotest, Testcontainers.
 
 ---
 
 ## 👨🏼‍🎓 INDUSTRIES
-**Finance and Banking**: HSBC, RBS, MobBill
-**Gaming**: Gamesys
-**Healthcare**: Elder Technologies
-**Public Sector and Government**: Greater London Authority (GLA) 
-**Social Networking and Content Management**: Katchup
-**Business Intelligence**: Datknosys
-**Hospitality and Food Services**: Eatsi
-**Consultancy**: EqualExperts, Keytree
-**Technology**: WireMock
+- **Finance and Banking**: HSBC, RBS, MobBill
+- **Gaming**: Gamesys
+- **Healthcare**: Elder Technologies
+- **Public Sector and Government**: Greater London Authority (GLA) 
+- **Social Networking and Content Management**: Katchup
+- **Business Intelligence**: Datknosys
+- **Hospitality and Food Services**: Eatsi
+- **Consultancy**: EqualExperts, Keytree
+- **Technology**: WireMock
 
 ---
 
