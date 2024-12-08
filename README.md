@@ -6,7 +6,7 @@ Hi, I'm Antonio, a Software Architect and Lead Engineer with years of experience
 ---
 
 ## 🚀 Featured Projects  
-- **[Flamingock](https://github.com/mongock/flamingock-project):** The evolution of Mongock, a migration tool now extended to auditable systems with cloud capabilities.  
+- **[Flamingock](https://github.com/mongock/flamingock-project):** Flamingock is the evolution of Mongock, expanding its core concept to support any auditable system. Designed with a cloud-first approach, Flamingock is the ideal solution for building scalable, cloud-native applications. 
 - **[Mongock](https://github.com/mongock/mongock):** A leading NoSQL migration tool.
 
 ---
