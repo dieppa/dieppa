@@ -1,5 +1,3 @@
-# 👋 Welcome to Antonio Perez Dieppa's GitHub  
-
 ## About Me  
 Hi, I'm Antonio, a Software Architect and Lead Engineer with years of experience designing scalable, high-performance systems. I specialize in microservices, event-driven architectures, and low-latency solutions for industries like finance, gaming, and healthcare.  
 
