@@ -1,4 +1,4 @@
-## About Me  
+⁸## About Me  
 Hi, I'm Antonio, a Software Architect and Lead Engineer with years of experience designing scalable, high-performance systems. I specialize in microservices, event-driven architectures, and low-latency solutions for industries like finance, gaming, and healthcare.  
 
 ---
@@ -18,16 +18,15 @@ Hi, I'm Antonio, a Software Architect and Lead Engineer with years of experience
 
 ---
 
-## 👨🏼‍🎓 INDUSTRIES
-- **Finance and Banking**: HSBC, RBS, MobBill
-- **Gaming**: Gamesys
-- **Healthcare**: Elder Technologies
-- **Public Sector and Government**: Greater London Authority (GLA) 
-- **Social Networking and Content Management**: Katchup
-- **Business Intelligence**: Datknosys
-- **Hospitality and Food Services**: Eatsi
-- **Consultancy**: EqualExperts, Keytree
-- **Technology**: WireMock
+## 🎓 INDUSTRIES
+
+- **Technology:** Amazon, WireMock  
+- **Finance and Banking:** HSBC, RBS, MobBill  
+- **Gaming:** Gamesys  
+- **Healthcare:** Elder Technologies  
+- **Public Sector and Government:** Greater London Authority (GLA)  
+- **Business Intelligence:** Datknosys  
+- **Consultancy:** EqualExperts, Keytree
 
 ---
 
